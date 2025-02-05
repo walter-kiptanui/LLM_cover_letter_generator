@@ -1,0 +1,1 @@
+Cover Letter generator for my applications using groq and langchain. It allows me to input the contents of a company's careers page. The tool then extracts job title, skills required and experience from that page and generates personalized cver letter. These cover letters include relevant projects done sourced from my resumes, based on the specific job descriptions.
